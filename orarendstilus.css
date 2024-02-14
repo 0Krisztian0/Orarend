@@ -1,0 +1,77 @@
+table{
+  width: 100%;
+  margin: auto;
+}
+
+table, th, td {
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: rgb(94, 0, 148);
+
+  }
+  
+  /* Új CSS rész */
+  th {
+    background-color: rgb(170, 41, 41);
+    color: rgb(68, 1, 1);
+  }
+  
+  td {
+    background-color: rgb(13, 0, 61);
+    color: rgb(240, 236, 2);
+  }
+body{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Csengetések{
+  background-color: rgb(134, 133, 133);
+}
+.Matematika{
+  background-color: chartreuse;
+}
+.dk{
+  background-color: rgb(0, 105, 14);
+}
+.pa{
+  background-color: rgb(60, 102, 104);
+}
+.iét{
+  background-color: rgb(139, 0, 0);
+}
+.t{
+  background-color: rgb(153, 69, 0);
+}
+.tör{
+  background-color: rgb(84, 6, 121);
+}
+.an{
+  background-color: rgb(21, 0, 139);
+}
+.mn{
+  background-color: black;
+}
+.ir{
+  background-color: red;
+}
+.mt{
+  background-color: rgb(0, 184, 197);
+}
+.ké{
+  background-color: rgb(99, 93, 66);
+}
+.fi{
+  background-color: rgb(104, 0, 95);
+}
+.fö{
+  background-color: blueviolet;
+}
+.ip1{
+  background-color: rgb(5, 138, 60);
+}
+.osz{
+  background-color: rgb(119, 101, 0);
+}
+.bi{
+  background-color: rgb(185, 9, 133);
+}
